@@ -1,4 +1,4 @@
-# Bot de Discord - By Vitor Menoli
+# Bot de Discord - Vitor Menoli
 
 Este projeto é um bot de Discord desenvolvido com a biblioteca [discord.js](https://discord.js.org/). O bot é capaz de interagir com servidores, respondendo a comandos de texto e executando várias funções úteis.
 
